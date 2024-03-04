@@ -23,3 +23,6 @@
 5) QLoRA  4090 1개로도 lama2 7B 파인튜닝 가능?? https://github.com/vllm-project/vllm
 
 6) CPU에서llama2 cpp 설치 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF
+
+### 한국어 특화 LLM
+1)  kiqu-70b : Miqu-70B-Alpaca-DPO 모델을 기반으로 한국어 데이터셋을 사용하여 SFT+DPO 훈련을 진행하여 제작 https://huggingface.co/maywell/kiqu-70b
