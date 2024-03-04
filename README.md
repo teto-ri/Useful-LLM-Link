@@ -26,3 +26,4 @@
 
 ### 한국어 특화 LLM
 1)  kiqu-70b : Miqu-70B-Alpaca-DPO 모델을 기반으로 한국어 데이터셋을 사용하여 SFT+DPO 훈련을 진행하여 제작 https://huggingface.co/maywell/kiqu-70b
+2)  Synatra-Mixtral-8x7B : https://huggingface.co/maywell/Synatra-Mixtral-8x7B
