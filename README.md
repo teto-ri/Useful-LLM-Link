@@ -3,6 +3,11 @@
 
 ### 프롬프트 엔지니어링 & 업무 효율화
 1) https://jehyunlee.github.io/2024/02/22/General-43_kierchatgpt/
+2) https://www.promptingguide.ai/
+3) 프럼프트 엔지니어링 관련 논문: https://www.promptingguide.ai/papers
+
+### RAG
+1) RAG for LLMs 관련 논문 링크: https://www.promptingguide.ai/research/rag
 
 ### llama 활용 개발 예제
 1) GPU에서 동작하는 Llama2 챗봇 구현 샘플  https://junia3.github.io/blog/chatbotgpu
