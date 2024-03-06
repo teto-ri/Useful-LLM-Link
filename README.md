@@ -6,7 +6,7 @@
 2) https://www.promptingguide.ai/
 3) 프럼프트 엔지니어링 관련 논문: https://www.promptingguide.ai/papers
 
-### RAG
+### RAG(Retrieval-Augmented Generation)
 1) RAG for LLMs 관련 논문 링크: https://www.promptingguide.ai/research/rag
 
 ### llama 활용 개발 예제
