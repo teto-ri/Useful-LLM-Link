@@ -22,6 +22,7 @@
 |9|테디노트 - 랭체인(langchain) + 웹사이트 크롤링 - 웹사이트 문서 요약|https://teddylee777.github.io/langchain/langchain-tutorial-05/|
 |10|테디노트 - 랭체인(langchain) + 허깅페이스(HuggingFace) 모델 사용법|https://teddylee777.github.io/langchain/langchain-tutorial-02/|
 |11|파이썬 Chat GPT로 인사 평가 의견을 자동 요약하기 (엑셀 읽어서 요약)|https://jgws.tistory.com/6|
+|12|Falcon7B + Chromadb - Hands On Guide <br> 랭체인 없이 크로마DB와 Falcon7B와 결합했고, 임베딩의 경우도 오픈소스 활용하여 구현|https://mlengineering.medium.com/integrating-vector-databases-with-llms-a-hands-on-guide-82d2463114fb
 
 ### llama 활용 개발 예제
 |Index|내용|링크|
