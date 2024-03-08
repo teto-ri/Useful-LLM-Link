@@ -24,6 +24,7 @@
 |11|파이썬 Chat GPT로 인사 평가 의견을 자동 요약하기 (엑셀 읽어서 요약)|https://jgws.tistory.com/6|
 |12|Falcon7B + Chromadb - Hands On Guide <br> 랭체인 없이 크로마DB와 Falcon7B와 결합했고, 임베딩의 경우도 오픈소스 활용하여 구현|https://mlengineering.medium.com/integrating-vector-databases-with-llms-a-hands-on-guide-82d2463114fb
 |13|llmware - RAG을 포함한 LLM 기반 어플리케이션 개발용 통합 프레임워크|https://github.com/llmware-ai/llmware|
+|14|메타데이터 강화가 포함된 LangChain 문서만들기|https://medium.com/@fabio.matricardi/metadata-metamorphosis-from-plain-data-to-enhanced-insights-with-retrieval-augmented-generation-8d1a8d5a6061
 
 ### llama 활용 개발 예제
 |Index|내용|링크|
@@ -48,12 +49,14 @@
 4|저사양 서버로 LLM 실행 기술 - vLLM|https://doooob.tistory.com/1118
 5|QLoRA  4090 1개로도 lama2 7B 파인튜닝 가능??|https://github.com/vllm-project/vllm
 6|CPU에서llama2 cpp 설치|https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF
+7|오리온 모델|https://github.com/OrionStarAI/Orion
 
 ### 한국어 특화 LLM
 |Index|내용|링크|
 |---|---|---|
 1|kiqu-70b : Miqu-70B-Alpaca-DPO 모델을 기반으로 한국어 데이터셋을 사용하여 SFT+DPO 훈련을 진행하여 제작|https://huggingface.co/maywell/kiqu-70b
 2|Synatra-Mixtral-8x7B|https://huggingface.co/maywell/Synatra-Mixtral-8x7B
+3|Bge-m3 한글 임베딩|https://python.langchain.com/docs/integrations/text_embedding/bge_huggingface <br> https://huggingface.co/BAAI/bge-m3
 
  * **Pseudo-Lab/Korean_LLM_Benchmark_Test:** GitHub: [https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test](https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test)
  * **오픈 코-LLM 리더보드:** [https://littlefoxdiary.tistory.com/124](https://littlefoxdiary.tistory.com/124)
