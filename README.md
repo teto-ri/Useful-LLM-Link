@@ -23,6 +23,7 @@
 |10|테디노트 - 랭체인(langchain) + 허깅페이스(HuggingFace) 모델 사용법|https://teddylee777.github.io/langchain/langchain-tutorial-02/|
 |11|파이썬 Chat GPT로 인사 평가 의견을 자동 요약하기 (엑셀 읽어서 요약)|https://jgws.tistory.com/6|
 |12|Falcon7B + Chromadb - Hands On Guide <br> 랭체인 없이 크로마DB와 Falcon7B와 결합했고, 임베딩의 경우도 오픈소스 활용하여 구현|https://mlengineering.medium.com/integrating-vector-databases-with-llms-a-hands-on-guide-82d2463114fb
+|13|llmware - RAG을 포함한 LLM 기반 어플리케이션 개발용 통합 프레임워크|https://github.com/llmware-ai/llmware|
 
 ### llama 활용 개발 예제
 |Index|내용|링크|
@@ -30,6 +31,13 @@
 1|GPU에서 동작하는 Llama2 챗봇 구현 샘플|https://junia3.github.io/blog/chatbotgpu
 2|Langchain으로 LLaMA2 cpp 버전 사용하기|https://knowslog.tistory.com/entry/Langchain으로-LLaMA2-cpp-버전-사용하기
 3| 로컬 환경에 ollama로 Llama 2 실행 및 LangChain으로 애플리케이션 개발|https://suwani.tistory.com/163
+
+### LLM 비동기처리
+|Index|내용|링크|
+|---|---|---|
+1|Langchain을 이용한 비동기 호출에 대한 아주 간단한 샘플|https://bcho.tistory.com/1409 
+2|세마포어(Semaphore) / 비동기 링크 모음 / 요약|https://cafe.naver.com/aidev/480  
+3|socket, 큐, fastapi에서 BackgroundTasks의 Semaphore - 비동기 공유메모리 - pending 제어 대화 내용|https://cafe.naver.com/aidev/474
 
 ### cpu 또는 저사양 동작 가능한 llm 관련 참고 사이트
 |Index|내용|링크|
@@ -39,7 +47,7 @@
 3|vLLM vs llama.cpp|https://www.reddit.com/r/LocalLLaMA/comments/18g21af/vllm_vs_llamacpp/
 4|저사양 서버로 LLM 실행 기술 - vLLM|https://doooob.tistory.com/1118
 5|QLoRA  4090 1개로도 lama2 7B 파인튜닝 가능??|https://github.com/vllm-project/vllm
-6| CPU에서llama2 cpp 설치|https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF
+6|CPU에서llama2 cpp 설치|https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF
 
 ### 한국어 특화 LLM
 |Index|내용|링크|
