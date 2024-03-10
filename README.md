@@ -1,6 +1,12 @@
 # Useful-LLM-Link
 개인기록용 링크모음
 
+### LLM 모델
+|Index|내용|링크|
+|---|---|---|
+1|ChatGPT by OPENAI|https://chat.openai.com/
+2|Claude by anthropic|https://claude.ai/chats
+
 ### 프롬프트 엔지니어링 & 업무 효율화
 |Index|내용|링크|
 |---|---|---|
@@ -25,6 +31,7 @@
 |12|Falcon7B + Chromadb - Hands On Guide <br> 랭체인 없이 크로마DB와 Falcon7B와 결합했고, 임베딩의 경우도 오픈소스 활용하여 구현|https://mlengineering.medium.com/integrating-vector-databases-with-llms-a-hands-on-guide-82d2463114fb
 |13|llmware - RAG을 포함한 LLM 기반 어플리케이션 개발용 통합 프레임워크|https://github.com/llmware-ai/llmware|
 |14|메타데이터 강화가 포함된 LangChain 문서만들기|https://medium.com/@fabio.matricardi/metadata-metamorphosis-from-plain-data-to-enhanced-insights-with-retrieval-augmented-generation-8d1a8d5a6061
+|15|엔디비아 GEN AI 실습 예제|https://github.com/NVIDIA/GenerativeAIExamples/blob/main/docs/README.md#getting-started
 
 ### llama 활용 개발 예제
 |Index|내용|링크|
