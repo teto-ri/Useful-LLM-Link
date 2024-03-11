@@ -17,6 +17,7 @@
 ### Langchain & RAG(Retrieval-Augmented Generation)
 |Index|내용|링크|
 |---|---|---|
+|1|랭체인 한국어 튜토리얼|https://github.com/teddylee777/langchain-kr
 |1|RAG for LLMs 관련 논문 링크|https://www.promptingguide.ai/research/rag|
 |2|Vector DB로 ChatGPT 보정하기(feat. OpenAI)|https://breezymind.com/vector-db-openai-response-optimize/|
 |3|LangChain이란? LangChain으로 강력한 LLM 서비스 구축하기|https://hipster4020.tistory.com/m/189|
@@ -32,6 +33,7 @@
 |13|llmware - RAG을 포함한 LLM 기반 어플리케이션 개발용 통합 프레임워크|https://github.com/llmware-ai/llmware|
 |14|메타데이터 강화가 포함된 LangChain 문서만들기|https://medium.com/@fabio.matricardi/metadata-metamorphosis-from-plain-data-to-enhanced-insights-with-retrieval-augmented-generation-8d1a8d5a6061
 |15|엔디비아 GEN AI 실습 예제|https://github.com/NVIDIA/GenerativeAIExamples/blob/main/docs/README.md#getting-started
+|16|RAG에 대하여|영상: https://www.youtube.com/watch?v=NfQrRQmDrcc <br> 발표자료: https://aifactory.space/task/2719/discussion/830
 
 ### llama 활용 개발 예제
 |Index|내용|링크|
