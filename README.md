@@ -6,6 +6,7 @@
 |---|---|---|
 1|ChatGPT by OPENAI|https://chat.openai.com/
 2|Claude by anthropic|https://claude.ai/chats
+3|오픈소스 모델 데모|https://labs.perplexity.ai/
 
 ### 프롬프트 엔지니어링 & 업무 효율화
 |Index|내용|링크|
