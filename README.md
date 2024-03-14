@@ -61,6 +61,18 @@
 6|CPU에서llama2 cpp 설치|https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF
 7|오리온 모델|https://github.com/OrionStarAI/Orion
 
+### 책
+|Index|제목|링크|
+|---|---|---|
+1|만들면서 배우는 생성AI|https://www.yes24.com/Product/Goods/122338458
+2|쉽고 빠르게 익히는 실전 LLM|https://www.yes24.com/Product/Goods/124721227
+
+### 강좌
+|Index|내용|링크|
+|---|---|---|
+1|Upstage와 함께 하는 글로벌 OpenLLM 리더보드 1위 모델 리뷰 & LLM 모델 Fine-tuning|https://fastcampus.co.kr/data_online_llmpaper?utm_source=media&utm_medium=viral&utm_campaign=prd%5E231123%5E234291&utm_content=teacher%5Eup_teacher%5E234291
+2|ChatGPT API를 활용한 챗봇 서비스 구축 with LangChain & Semantic Kernel|https://fastcampus.co.kr/data_online_langchain
+
 ### 한국어 특화 LLM
 |Index|내용|링크|
 |---|---|---|
