@@ -35,6 +35,7 @@
 |14|메타데이터 강화가 포함된 LangChain 문서만들기|https://medium.com/@fabio.matricardi/metadata-metamorphosis-from-plain-data-to-enhanced-insights-with-retrieval-augmented-generation-8d1a8d5a6061
 |15|엔디비아 GEN AI 실습 예제|https://github.com/NVIDIA/GenerativeAIExamples/blob/main/docs/README.md#getting-started
 |16|RAG에 대하여|영상: https://www.youtube.com/watch?v=NfQrRQmDrcc <br> 발표자료: https://aifactory.space/task/2719/discussion/830
+|17|LangChain으로 Multimodal과 RAG 활용하기|https://github.com/kyopark2014/llm-multimodal-and-rag
 
 ### llama 활용 개발 예제
 |Index|내용|링크|
