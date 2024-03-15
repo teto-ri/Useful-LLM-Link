@@ -64,6 +64,7 @@
 ### 책
 |Index|제목|링크|
 |---|---|---|
+0|딥러닝을 이용한 자연어처리 입문|https://wikidocs.net/book/2155
 1|만들면서 배우는 생성AI|https://www.yes24.com/Product/Goods/122338458
 2|쉽고 빠르게 익히는 실전 LLM|https://www.yes24.com/Product/Goods/124721227
 
