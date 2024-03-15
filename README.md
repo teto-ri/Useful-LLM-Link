@@ -1,5 +1,6 @@
 # Useful-LLM-Link
 개인기록용 링크모음
+* Used for Korean
 
 ### LLM 모델
 |Index|내용|링크|
