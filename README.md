@@ -62,6 +62,7 @@
 5|QLoRA  4090 1개로도 lama2 7B 파인튜닝 가능??|https://github.com/vllm-project/vllm
 6|CPU에서llama2 cpp 설치|https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF
 7|오리온 모델|https://github.com/OrionStarAI/Orion
+8|맥북에어와 미니에서도 7B모델 파인튜닝 가능한 시대 ?? - Mistral-7B QLoRA|https://github.com/ml-explore/mlx-examples/tree/main/lora
 
 ### 책
 |Index|제목|링크|
