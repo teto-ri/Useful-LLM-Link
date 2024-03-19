@@ -15,7 +15,7 @@
 |1|프롬프트 엔지니어링을 통한 업무 효율화|https://jehyunlee.github.io/2024/02/22/General-43_kierchatgpt/|
 |2|프롬프트 엔지니어링 가이드|https://www.promptingguide.ai/|
 |3|프롬프트 엔지니어링 논문|https://www.promptingguide.ai/papers|
-
+|4|파인튜닝,프롬프트 튜닝,프롬프트 엔지니어링 차이|https://moon-walker.medium.com/the-art-of-prompt-engneering-1-prompt-engineering%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-4a7a88ce67c
 ### Langchain & RAG(Retrieval-Augmented Generation)
 |Index|내용|링크|
 |---|---|---|
@@ -76,6 +76,7 @@
 |---|---|---|
 1|Upstage와 함께 하는 글로벌 OpenLLM 리더보드 1위 모델 리뷰 & LLM 모델 Fine-tuning|https://fastcampus.co.kr/data_online_llmpaper?utm_source=media&utm_medium=viral&utm_campaign=prd%5E231123%5E234291&utm_content=teacher%5Eup_teacher%5E234291
 2|ChatGPT API를 활용한 챗봇 서비스 구축 with LangChain & Semantic Kernel|https://fastcampus.co.kr/data_online_langchain
+3|비용을 줄이는 LLM|https://fastcampus.co.kr/data_online_prompt
 
 ### 한국어 특화 LLM
 |Index|내용|링크|
