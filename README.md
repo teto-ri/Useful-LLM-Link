@@ -16,6 +16,8 @@
 |2|프롬프트 엔지니어링 가이드|https://www.promptingguide.ai/|
 |3|프롬프트 엔지니어링 논문|https://www.promptingguide.ai/papers|
 |4|파인튜닝,프롬프트 튜닝,프롬프트 엔지니어링 차이|https://moon-walker.medium.com/the-art-of-prompt-engneering-1-prompt-engineering%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-4a7a88ce67c
+|5|Delimiter를 활용한 Prompt Formatting - 정확한 지시사항 전달의 핵심|https://velog.io/@samuel_cogdex/Delimiter%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Prompt-Formatting-%EA%B8%B0%EB%B2%95-%EC%A0%95%ED%99%95%ED%95%9C-%EC%A7%80%EC%8B%9C%EC%82%AC%ED%95%AD-%EC%A0%84%EB%8B%AC%EC%9D%98-%ED%95%B5%EC%8B%AC
+
 ### Langchain & RAG(Retrieval-Augmented Generation)
 |Index|내용|링크|
 |---|---|---|
