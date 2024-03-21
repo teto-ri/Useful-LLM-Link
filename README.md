@@ -94,6 +94,7 @@
  * **한국어 LLM 성능 평가를 위한 벤치마크 구축:** [https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test](https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test)
  * **K-MMLU: 한국어 언어 이해 평가 벤치마크:** [https://www.sedaily.com/NewsView/29VSXCSWOD](https://www.sedaily.com/NewsView/29VSXCSWOD)
  * **한국어 LLM 모델 성능 비교 분석:** [https://www.youtube.com/watch?v=rQIG_B6XcUw](https://www.youtube.com/watch?v=rQIG_B6XcUw)
+ * **투디지트 한글 LLM :** [NIA Open ko-llm leaderboard에서 1등,2등, 5등](https://www.etnews.com/20240321000006)
  
  **각 사이트 및 논문의 특징:**
  
