@@ -91,6 +91,11 @@
 
  * **Pseudo-Lab/Korean_LLM_Benchmark_Test:** GitHub: [https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test](https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test)
  * **오픈 코-LLM 리더보드:** [https://littlefoxdiary.tistory.com/124](https://littlefoxdiary.tistory.com/124)
+ 
+ * **Bge-m3 Config
+![image](https://github.com/teto-ri/Useful-LLM-Link/assets/34530460/cd10665f-9d79-431b-b867-0bdf820883be)
+
+ 
  **논문:**
  
  * **한국어 LLM 성능 평가를 위한 벤치마크 구축:** [https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test](https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test)
