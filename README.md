@@ -8,6 +8,7 @@
 1|ChatGPT by OPENAI|https://chat.openai.com/
 2|Claude by anthropic|https://claude.ai/chats
 3|오픈소스 모델 데모|https://labs.perplexity.ai/
+4|상업적 이용가능한 LLM|https://github.com/eugeneyan/open-llms?fbclid=IwAR1dW3jADiCLrUUXZsRz8FpQnpkcsu5Hl_bhPa4iClyH8vyTMU9UIE1Ufy4
 
 ### 프롬프트 엔지니어링 & 업무 효율화
 |Index|내용|링크|
@@ -39,6 +40,8 @@
 |15|엔디비아 GEN AI 실습 예제|https://github.com/NVIDIA/GenerativeAIExamples/blob/main/docs/README.md#getting-started
 |16|RAG에 대하여|영상: https://www.youtube.com/watch?v=NfQrRQmDrcc <br> 발표자료: https://aifactory.space/task/2719/discussion/830
 |17|LangChain으로 Multimodal과 RAG 활용하기|https://github.com/kyopark2014/llm-multimodal-and-rag
+|18|프로덕션을 위한 고성능 RAG 응용 프로그램 구축|https://docs.llamaindex.ai/en/stable/optimizing/production_rag/
+|19|LlamaParse를 사용한 고급 RAG|https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
 
 ### llama 활용 개발 예제
 |Index|내용|링크|
@@ -96,7 +99,7 @@
 ![image](https://github.com/teto-ri/Useful-LLM-Link/assets/34530460/cd10665f-9d79-431b-b867-0bdf820883be)
 
  
- **논문:**
+ **논문 및 기사:**
  
  * **한국어 LLM 성능 평가를 위한 벤치마크 구축:** [https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test](https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test)
  * **K-MMLU: 한국어 언어 이해 평가 벤치마크:** [https://www.sedaily.com/NewsView/29VSXCSWOD](https://www.sedaily.com/NewsView/29VSXCSWOD)
