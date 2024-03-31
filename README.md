@@ -43,6 +43,7 @@
 |17|LangChain으로 Multimodal과 RAG 활용하기|https://github.com/kyopark2014/llm-multimodal-and-rag
 |18|프로덕션을 위한 고성능 RAG 응용 프로그램 구축|https://docs.llamaindex.ai/en/stable/optimizing/production_rag/
 |19|LlamaParse를 사용한 고급 RAG|https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
+|20|밑바닥부터 시작하는 RAG 예제|https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_10_and_11.ipynb
 
 ### llama 활용 개발 예제
 |Index|내용|링크|
