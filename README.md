@@ -92,7 +92,8 @@
 2|Synatra-Mixtral-8x7B|https://huggingface.co/maywell/Synatra-Mixtral-8x7B
 3|Bge-m3 한글 임베딩|https://python.langchain.com/docs/integrations/text_embedding/bge_huggingface <br> https://huggingface.co/BAAI/bge-m3
 4|젬마 7B 한국어 모델|https://huggingface.co/beomi/gemma-ko-7b
-5|투디지트 한글 LLM 파인튜닝|허깅페이스 : https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard <br> 깃허브 : https://github.com/davidkim205/nox 
+5|투디지트 한글 LLM 파인튜닝|허깅페이스 : https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard <br> 깃허브 : https://github.com/davidkim205/nox
+6|Gemma 한국어 요약 모델 파인튜닝|https://devocean.sk.com/blog/techBoardDetail.do?ID=165703&boardType=techBlog
 
  * **Pseudo-Lab/Korean_LLM_Benchmark_Test:** GitHub: [https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test](https://github.com/Pseudo-Lab/Korean_LLM_Benchmark_Test)
  * **오픈 코-LLM 리더보드:** [https://littlefoxdiary.tistory.com/124](https://littlefoxdiary.tistory.com/124)
