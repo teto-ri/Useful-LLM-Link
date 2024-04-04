@@ -7,9 +7,10 @@
 |---|---|---|
 1|ChatGPT by OPENAI|https://chat.openai.com/
 2|Claude by anthropic|https://claude.ai/chats
-3|오픈소스 모델 데모|https://labs.perplexity.ai/
-4|상업적 이용가능한 LLM|https://github.com/eugeneyan/open-llms?fbclid=IwAR1dW3jADiCLrUUXZsRz8FpQnpkcsu5Hl_bhPa4iClyH8vyTMU9UIE1Ufy4
-5|한국어 언어모델 사고력 벤치마크 순위|https://lk.instruct.kr/
+3|오픈소스 모델 챗봇|https://labs.perplexity.ai/
+4|오픈소스 모델 데모|https://replicate.com/explore
+5|상업적 이용가능한 LLM|https://github.com/eugeneyan/open-llms?fbclid=IwAR1dW3jADiCLrUUXZsRz8FpQnpkcsu5Hl_bhPa4iClyH8vyTMU9UIE1Ufy4
+6|한국어 언어모델 사고력 벤치마크 순위|https://lk.instruct.kr/
 
 ### 프롬프트 엔지니어링 & 업무 효율화
 |Index|내용|링크|
@@ -44,6 +45,9 @@
 |18|프로덕션을 위한 고성능 RAG 응용 프로그램 구축|https://docs.llamaindex.ai/en/stable/optimizing/production_rag/
 |19|LlamaParse를 사용한 고급 RAG|https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
 |20|밑바닥부터 시작하는 RAG 예제|https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_10_and_11.ipynb
+|21|카카오톡 RAG|https://github.com/teddylee777/kakaotalk-gpt
+|22|한국어 순위 재정렬을 활용한 RAG 성능 올리기|https://aws.amazon.com/ko/blogs/tech/korean-reranker-rag/
+|23|그래프 RAG|https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-graph-rag/
 
 ### llama 활용 개발 예제
 |Index|내용|링크|
