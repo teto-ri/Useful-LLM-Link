@@ -11,6 +11,7 @@
 4|오픈소스 모델 데모|https://replicate.com/explore
 5|상업적 이용가능한 LLM|https://github.com/eugeneyan/open-llms?fbclid=IwAR1dW3jADiCLrUUXZsRz8FpQnpkcsu5Hl_bhPa4iClyH8vyTMU9UIE1Ufy4
 6|한국어 언어모델 사고력 벤치마크 순위|https://lk.instruct.kr/
+7|금융 LLM 리더보드|https://llm-leaderboard.org/
 
 ### 프롬프트 엔지니어링 & 업무 효율화
 |Index|내용|링크|
