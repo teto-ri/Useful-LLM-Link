@@ -5,6 +5,7 @@
 ### LLM 모델
 |Index|내용|링크|
 |---|---|---|
+0|LLM Explorer|https://llm.extractum.io/
 1|ChatGPT by OPENAI|https://chat.openai.com/
 2|Claude by anthropic|https://claude.ai/chats
 3|오픈소스 모델 챗봇|https://labs.perplexity.ai/
