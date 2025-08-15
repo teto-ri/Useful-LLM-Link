@@ -14,6 +14,7 @@
 6|한국어 언어모델 사고력 벤치마크 순위|https://lk.instruct.kr/
 7|금융 LLM 리더보드|https://llm-leaderboard.org/
 8|멀티모달 챗봇 Reka|https://chat.reka.ai/chat
+9|LLM아레나|https://lmarena.ai/?mode=direct
 
 ### 프롬프트 엔지니어링 & 업무 효율화
 |Index|내용|링크|
