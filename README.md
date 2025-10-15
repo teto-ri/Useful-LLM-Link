@@ -2,6 +2,11 @@
 개인기록용 링크모음
 * Used for Korean
 
+### 노션
+|Index|내용|링크|
+|---|---|---|
+0|AI컴파일러 스터디|https://carpedm30.notion.site/AI-Compiler-Study-aaf4cff2c8734e50ad95ac6230dbd80b
+
 ### LLM 모델
 |Index|내용|링크|
 |---|---|---|
