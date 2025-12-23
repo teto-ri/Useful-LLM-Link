@@ -21,6 +21,11 @@
 8|멀티모달 챗봇 Reka|https://chat.reka.ai/chat
 9|LLM아레나|https://lmarena.ai/?mode=direct
 
+### VLM 모델
+|Index|내용|링크|
+|---|---|---|
+0|Chandra OCR(VLM) QWen-3기반|[https://llm.extractum.io/](https://lsjsj92.tistory.com/709)
+
 ### 프롬프트 엔지니어링 & 업무 효율화
 |Index|내용|링크|
 |---|---|---|
